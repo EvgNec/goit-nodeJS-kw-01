@@ -14,8 +14,9 @@
     "url": "git+https://github.com/EvgNec/goit-nodeJS-hw-01.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nechaev Evgeniy",
   "license": "ISC",
+
   "bugs": {
     "url": "https://github.com/EvgNec/goit-nodeJS-hw-01/issues"
   },
